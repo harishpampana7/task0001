@@ -1,0 +1,108 @@
+body{
+    background-color: #9E9EA8;
+    
+
+}
+
+.navbar-1{
+    width: 100%;
+    height: 56px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #F0F0F5;
+    margin-top: 0%;
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+
+.cart-items-maixbox{
+    /* border: 1px solid red; */
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    gap: 10px;
+}
+
+.cart-items-box{
+    /* border: 1px solid red; */
+    height: 100px;
+    display: flex;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #F0F0F5;
+}
+
+.cart-items-box-1-1 img{
+   width: 80px;
+   height: 80px;
+   padding: 10px;
+
+}
+
+.cart-btn{
+    border: 1px solid #F05A26;
+    color: #F05A26;
+    width: 88px;
+   height: 28px;
+   border-radius: 5px;
+   background-color: #FEF3F0;
+    
+}
+
+.freq-main-box{
+    display: flex;
+    border-radius: 10px;
+    margin: auto;
+    width: 80%;
+    gap: 20px;
+}
+
+.freq-box{
+    width: 148px;
+    height: 140px;
+    background-color: #F0F0F5;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.freq-box img{
+    height: 76px;
+    /* padding: 4px; */
+}
+
+.freq-box p{
+    font-size: 10px;
+    
+}
+
+.delv-main-box{
+    width: 80%;
+    margin: auto;
+    height: 146px;
+    padding: 14px;
+    border-radius: 10px;
+    background-color: #F0F0F5;
+    margin-top: 50px;
+}
+
+.delv-main-box p{
+    font-size: 12px;
+}
+
+hr{
+    color: #9E9EA8;
+}
+
+.button-1{
+    background-color: #F05A26;
+    height: 44px;
+    border-radius: 10px;
+    color: #F0F0F5;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+}
